@@ -1,0 +1,2 @@
+(this["webpackJsonpem-group"]=this["webpackJsonpem-group"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var r=n(1),c=n.n(r),o=n(3),s=n.n(o),p=n(0);var i=function(){return Object(p.jsx)("h1",{children:"App"})};s.a.render(Object(p.jsx)(c.a.StrictMode,{children:Object(p.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.f35bbc4f.chunk.js.map
